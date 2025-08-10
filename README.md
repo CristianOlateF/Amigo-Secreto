@@ -20,7 +20,7 @@ Este es un proyecto simple para realizar un sorteo de amigo secreto. Permite a l
 
 ## 💻 Cómo Usar
 
-1.  **Abre [el archivo HTML](https://cristianolatef.github.io/Amigo-Secreto/)** en tu navegador.
+1. **Abre el <a href="https://cristianolatef.github.io/Amigo-Secreto/" target="_blank">archivo HTML</a> en tu navegador.**
 2.  **Escribe un nombre** en el campo de texto.
 <img width="733" height="167" alt="image" src="https://github.com/user-attachments/assets/680b6d4c-0961-47f4-a018-c0ac627d591f" />
 
