@@ -16,15 +16,21 @@ Este es un proyecto simple para realizar un sorteo de amigo secreto. Permite a l
 
 -   **JavaScript:** Lógica principal del sorteo y manipulación del DOM.
 -   **HTML:** Estructura de la interfaz.
--   **CSS:** (Presumiblemente, ya que el código añade clases como `name-item` y `result-text`) Estilización de la aplicación.
+-   **CSS:**  Estilización de la aplicación.
 
 ## 💻 Cómo Usar
 
-1.  **Abre el archivo HTML** en tu navegador.
+1.  **Abre [el archivo HTML](https://cristianolatef.github.io/Amigo-Secreto/)** en tu navegador.
 2.  **Escribe un nombre** en el campo de texto.
-3.  Haz clic en el botón **"Agregar"** para añadir el nombre a la lista.
+<img width="733" height="167" alt="image" src="https://github.com/user-attachments/assets/680b6d4c-0961-47f4-a018-c0ac627d591f" />
+
+3.  Haz clic en el botón **"Añadir"** para añadir el nombre a la lista.
+<img width="147" height="79" alt="image" src="https://github.com/user-attachments/assets/ff28c45e-d30a-4190-b827-da2f50135a34" />
+
 4.  Repite el proceso para todos los amigos que participarán.
 5.  Una vez que tengas al menos dos nombres, haz clic en el botón **"Sortear Amigo"**.
+<img width="356" height="88" alt="image" src="https://github.com/user-attachments/assets/e752bd64-156c-4692-9383-721a3746eaee" />
+
 6.  El nombre del amigo secreto se mostrará en pantalla.
 
 ## 📂 Estructura del Código
