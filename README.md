@@ -38,3 +38,5 @@ agregarAmigo(): Lógica para validar y añadir un nuevo amigo al array.
 mostrarAmigos(): Actualiza la lista visible en el HTML con los nombres del array.
 
 sortearAmigo(): Realiza el sorteo de manera aleatoria y muestra el resultado.
+
+https://img.shields.io/badge/status-finalizado-success
